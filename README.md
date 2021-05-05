@@ -31,7 +31,7 @@ The scaffolding app is done with _create-react-app_ as the foundation.
 - Run `npm install` to install dependencies
 - Open a second terminal shell
 - Run `npm start` to start the application on port http://localhost:3000 (CRA default) in one shell
-- Run `npm run server` to start the mock api on http://localhost:5000/quotes in the second shell
+- Run `npm run server` to start the mock api on http://localhost:5000/data in the second shell
 
 &nbsp;
 
